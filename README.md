@@ -140,5 +140,16 @@ After downloading the project file from github, take the folder and move it to t
 
   ![1](https://user-images.githubusercontent.com/85521815/206434614-583a1357-2072-4bf0-9768-fba23a6ceb99.png)
 
+  
+  <h3>After the CEO clicked to manage their own schedule, he will see the schedules that he has and he can create,delete and update a schedule</h3>
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206435227-857e2677-5932-467f-ba9a-f2a717db8daf.png)
+  
+  
+  <h3>When the user clicks the Add Schedule button, they will see a form that lets them input their schedule details</h3>
+  
+  
+![1](https://user-images.githubusercontent.com/85521815/206435704-95314420-42a2-4c83-8859-074daa7da882.png)
+
 
 
