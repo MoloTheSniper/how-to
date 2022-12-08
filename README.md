@@ -72,4 +72,9 @@ After downloading the project file from github, take the folder and move it to t
   
   ![1](https://user-images.githubusercontent.com/85521815/206421878-fe04eadf-3112-44ce-ae74-21715f1223cc.png)
 
+<h3>Step5:Time to import the database in your localserver</h3>
+  
+  Go to your webbrowser of choice, and type in the following: http://localhost/phpmyadmin/
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206423463-9b2afc2b-809b-4fa2-b2d3-82682a621f42.png)
 
