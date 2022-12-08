@@ -71,10 +71,19 @@ After downloading the project file from github, take the folder and move it to t
  Open the folder, and look for a folder called database and open it as shown below:
   
   ![1](https://user-images.githubusercontent.com/85521815/206421878-fe04eadf-3112-44ce-ae74-21715f1223cc.png)
+  
+  <h3>Right click the epiuse.sql file and compress it to a zip file</h3>
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206425778-66467c5e-542f-4b52-a1e7-c7677556d8db.png)
 
-<h3>Step5:Time to import the database in your localserver</h3>
+
+<h3>Step5: Time to import the database in your localserver</h3>
   
   Go to your webbrowser of choice, and type in the following: http://localhost/phpmyadmin/
   
+  Make sure the XAMPP CONTROL PANEL is still open foe this to work!
+  
   ![1](https://user-images.githubusercontent.com/85521815/206423463-9b2afc2b-809b-4fa2-b2d3-82682a621f42.png)
+  
+  
 
