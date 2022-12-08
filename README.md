@@ -122,8 +122,23 @@ After downloading the project file from github, take the folder and move it to t
   ![1](https://user-images.githubusercontent.com/85521815/206432595-81cd2994-da53-4469-9995-a9cfda02ee1b.png)
 
   
-  
-  
+  <h1>Screenshots of application’s visual interface and functionality</h1>
 
   
+  <h3>Login Page where users have to input their details:</h3>
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206433708-86e08577-018a-4d20-9a2a-e70d36d0420a.png)
+  
+  <h3>Hierarchy Page where users see who reports to them:</h3>
+  
+  
+![1](https://user-images.githubusercontent.com/85521815/206434045-3614caad-57b7-49cb-bf50-059d8ed6d09f.png)
+  
+
+  <h3>Schedule Management page where users manage employees that report to them, since im curently logged in as a CEO i also have a button that says View Reportees, this is to allow the CEO to manage employees that dont report to him directly but report to the managers</h3>
+  
+
+  ![1](https://user-images.githubusercontent.com/85521815/206434614-583a1357-2072-4bf0-9768-fba23a6ceb99.png)
+
+
 
