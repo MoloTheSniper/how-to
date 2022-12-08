@@ -96,9 +96,14 @@ After downloading the project file from github, take the folder and move it to t
   <h3>Your newly created database, should show on the left panel, if it is selected click the import button as shown below:</h3>
   
   ![1](https://user-images.githubusercontent.com/85521815/206428722-c5619bce-065f-428c-9f72-7dfd33557cd4.png)
+  
+  <h3>Press the browse button and go to the XAMPP/HTDOCS/EPI-USE/DATABASE directory and select the zip file you made earlier epiuse.zip </h3>
+  
+  
+![1](https://user-images.githubusercontent.com/85521815/206430640-80d9ce0a-b813-450c-9582-e17a9f7e6e9e.png)
 
   
+![1](https://user-images.githubusercontent.com/85521815/206430350-7cad51d5-906a-43db-b4a3-c223ab94ad92.png)
 
-  
   
 
