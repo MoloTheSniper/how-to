@@ -151,5 +151,9 @@ After downloading the project file from github, take the folder and move it to t
   
 ![1](https://user-images.githubusercontent.com/85521815/206435704-95314420-42a2-4c83-8859-074daa7da882.png)
 
+  
+  <h1> Constraints </h1>
+  
+  The program works mostly perfectly, the only issue is that when creating events that share the same time, it will accept the first schedule, however when creating/updating a second schedule it will now alert you that an event with the same time already exists. Lastly when updating a schedule, you have to refresh to see the new changes, enjoy!
 
 
