@@ -93,6 +93,10 @@ After downloading the project file from github, take the folder and move it to t
   
   ![1](https://user-images.githubusercontent.com/85521815/206427730-ff194ef6-aa65-4c85-af3c-3388bb4137cd.png)
   
+  <h3>Your newly created database, should show on the left panel, if it is selected click the import button as shown below:</h3>
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206428722-c5619bce-065f-428c-9f72-7dfd33557cd4.png)
+
   
 
   
