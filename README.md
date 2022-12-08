@@ -63,5 +63,13 @@ After downloading the project file from github, take the folder and move it to t
 
 ![1](https://user-images.githubusercontent.com/85521815/206419869-762aa414-ad16-4bca-8437-1418beeee7d6.png)
 
+<h3>Now that you openned the htdocs folder paste your downloaded git files in this folder and rename the file to EPI-USE
+  
+  
+![1](https://user-images.githubusercontent.com/85521815/206421351-b648bcb3-2fa7-446f-98a3-7859dd06bb8e.png)
+
+ Open the folder, and look for a folder called database and open it as shown below:
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206421878-fe04eadf-3112-44ce-ae74-21715f1223cc.png)
 
 
