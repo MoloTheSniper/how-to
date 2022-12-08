@@ -85,5 +85,16 @@ After downloading the project file from github, take the folder and move it to t
   
   ![1](https://user-images.githubusercontent.com/85521815/206423463-9b2afc2b-809b-4fa2-b2d3-82682a621f42.png)
   
+  <h3>If the page loads succesfully, click the new button as shown below, else go back to step 3 and make sure that APACHE and MYSQL are on by pressing the start button for them </h3>
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206427197-43bda1c7-3562-4cd2-92d7-94079ad5aba4.png)
+
+  <h3> Name your database "epiuse" small letters and click the create button as shown below:</h3>
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206427730-ff194ef6-aa65-4c85-af3c-3388bb4137cd.png)
+  
+  
+
+  
   
 
