@@ -104,6 +104,26 @@ After downloading the project file from github, take the folder and move it to t
 
   
 ![1](https://user-images.githubusercontent.com/85521815/206430350-7cad51d5-906a-43db-b4a3-c223ab94ad92.png)
+  
+  <h3>Scroll to the bottom of the page and press the import button, as shown below:</h3>
+  
+![1](https://user-images.githubusercontent.com/85521815/206431341-867240a0-7914-4815-9d61-b711fb912068.png)
+  
+<h3>You have now officially imported the database, you can verify bu checking if you see the tbusers and tbschedule in your epiuse databse</h3>
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206431837-a5a9a4b0-a660-44cb-8891-87165999a86e.png)
+
+  <h3>Step5: Time to Run the Application!</h3>
+  
+  Open a new tab in your webbrowser of choice, and type the following link: http://localhost/epi-use/login.php
+  
+  if you followed all the instructions properly you should see a login page, you can now use the app, enjoy!
+  
+  ![1](https://user-images.githubusercontent.com/85521815/206432595-81cd2994-da53-4469-9995-a9cfda02ee1b.png)
+
+  
+  
+  
 
   
 
